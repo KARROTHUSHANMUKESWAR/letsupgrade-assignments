@@ -1,0 +1,15 @@
+COMPILER:
+1.compiler checks whether there are any mistakes(such as grammer mistakes in the code written),if there are any errrors in the syntax we have to correct the syntax.
+2.compiler wont make any corrections in the code.
+3.compiler just convert the high level programming language into machine level language.
+4.compiled code runs faster.
+5.machine code is stored in disk storage
+6.program is not executed untill the errors are solved
+7.gives intermediate code forms.
+INTERPRETER:
+1.interpreter converts source code line by line during the execution.
+2.it allows evaluation and modification during execution.
+3.interpreted code run slower.
+4.machine code is not at all saved
+5.The program runs till the error is found and proceeds further on resolving.
+6.no intermediate forms are there.
